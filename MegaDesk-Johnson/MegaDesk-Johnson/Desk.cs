@@ -6,14 +6,14 @@ using System.Threading.Tasks;
 
 namespace MegaDesk_Johnson
 {
-    enum DesktopMaterial 
-    {
-        Pine,
-        Laminate,
-        Veneer,
-        Oak,
-        Rosewood
-    };
+    //enum DesktopMaterial 
+    //{
+    //    Pine,
+    //    Laminate,
+    //    Veneer,
+    //    Oak,
+    //    Rosewood
+    //};
 
     // This class will define the attributes of the desk object with width,
     // depth, number of drawers, and the surface material.
